@@ -29,6 +29,7 @@ github_username: mayerph/beep-performance
 
 # Build settings
 remote_theme: broccolini/swiss
+theme_color: white
 plugins:
   - jekyll-feed
 # Exclude from processing.
