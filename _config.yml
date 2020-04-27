@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username: jekyll
 
 # Build settings
-theme: texture
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
@@ -52,12 +52,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-texture:
-  title: Philipp M
-  tagline: Developer
-  date_format: "%b %-d, %Y"
-  style: blue
-
-  social_links:
-    github: mayerph
