@@ -4,4 +4,3 @@
 
 layout: home
 ---
-<div>hi welt</div>
