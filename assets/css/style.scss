@@ -1,10 +1,7 @@
----
----
-
-@import "";
+@import "{{ site.theme }}";
 
 @media (min-width: 52em) {
   .h0 {
-    font-size: 120px;
+    font-size: 120px !important;
   }
 }
