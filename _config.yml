@@ -20,7 +20,7 @@
 
 title: Beak-Performance
 email: your-email@example.com
-description: | 
+description: |
   Hello and Welcome to Beakperformance!           
   We are three master students who are interested in distributed systems and embedded programming. 
   We use this blog to write about a university project dealing with the detection classification and localisation of birds. 
@@ -33,7 +33,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: mayerph/beak-performance
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: broccolini/swiss
 theme_color: white
 plugins:
   - jekyll-feed
