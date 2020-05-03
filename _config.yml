@@ -32,7 +32,6 @@ texture:
     This blog is about a university project dealing with the detection classification and localisation of birds.
   date_format: "%b %-d, %Y"
   style: blue
-  disqus_shortname: games
 
   social_links:
     github: mayerph/beak-performance
