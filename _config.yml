@@ -30,12 +30,18 @@ description: |
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username: mayerph/beak-performance
+
 show_excerpts: true
 # Build settings
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Beak-Performance
+  tagline: |
+    Hello and Welcome to Beakperformance!           
+    We are three master students who are interested in distributed systems and embedded programming. 
+    We use this blog to write about a university project dealing with the detection classification and localisation of birds. 
+    For the hardware we use Bluepill boards and standard microphones. 
+    The software will mainly be written with Rust without the use of the standard libary.
+    Feel free to reach out if you have an comments, feedback or even help
   date_format: "%b %-d, %Y"
   style: blue
   disqus_shortname: games
