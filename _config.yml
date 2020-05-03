@@ -29,7 +29,7 @@ show_excerpts: true
 texture:
   title: Beak-Performance
   tagline: |
-    This blog is about a university project dealing with the detection classification and localisation of birds.
+    This blog is about a project dealing with the detection classification and localisation of birds.
   date_format: "%b %-d, %Y"
   style: blue
 
