@@ -4,7 +4,7 @@ title: "Welcome"
 date: 2020-05-01 21:03:36 +0530
 ---
 
-Hello and Welcome to Beakperformance!  
+Hello and Welcome to Beak-Performance!  
 We are three software developers who are interested in distributed systems and embedded programming.
 We use this blog to write about a project dealing with the detection classification and localisation of birds.
 For the hardware we use Bluepill boards and standard microphones.
