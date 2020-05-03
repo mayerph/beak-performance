@@ -31,10 +31,21 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: mayerph/beak-performance
-
+show_excerpts: true
 # Build settings
+texture:
+  title: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  style: blue
+  disqus_shortname: games
+
+  social_links:
+    twitter: thelehhman
+    github: thelehhman
+    linkedIn: in/thelehhman # format: locale/username
 remote_theme: thelehhman/texture
-theme_color: white
+
 plugins:
   - jekyll-feed
 # Exclude from processing.
