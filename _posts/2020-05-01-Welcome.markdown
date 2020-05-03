@@ -8,5 +8,5 @@ Hello and Welcome to Beakperformance!
 We are three software developer who are interested in distributed systems and embedded programming.
 We use this blog to write about a university project dealing with the detection classification and localisation of birds.
 For the hardware we use Bluepill boards and standard microphones.
-The software will mainly be written with Rust without the use of the standard libary.
-Feel free to reach out if you have an comments, feedback or even help
+The software will mainly be written with Rust.
+Feel free to reach out if you have any comments, feedback or even help
