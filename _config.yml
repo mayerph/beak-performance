@@ -33,7 +33,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: mayerph/beak-performance
 
 # Build settings
-remote_theme: broccolini/swiss
+theme: jekyll-theme-cayman
 theme_color: white
 plugins:
   - jekyll-feed
