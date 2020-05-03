@@ -20,12 +20,13 @@
 
 title: Beak-Performance
 email: your-email@example.com
-description: >-´Hello and Welcome to Beakperformance!           
+description: | 
+  Hello and Welcome to Beakperformance!           
   We are three master students who are interested in distributed systens and embedded programming. 
   We use this blog to write about a university project dealing wiht the detection classification and localisation of birds. 
   For the hardware we use Bluepill boards and standard microphones. 
   The software will mainyl be written with Rust without the use of the standard libary.
-  Feel free to reach out if you have an comments, feedback or even help´
+  Feel free to reach out if you have an comments, feedback or even help
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
